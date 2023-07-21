@@ -4,7 +4,7 @@ pipeline {
   tools {nodejs "nodejs"}
    stages {
 
-   stages {
+   
    
      stage('Install Dependencies') { 
         steps { 
